@@ -30,6 +30,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@" Here i'm Adding some message");
 	// Do any additional setup after loading the view.
 }
 
