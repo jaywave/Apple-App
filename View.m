@@ -15,7 +15,7 @@
 @implementation View
 -(void)But:(id)sender
 {
-    Hello.text=[NSString stringWithFormat:@"HELLO WORLD"];
+    Hello.text=[NSString stringWithFormat:@"HELLO Edited"];
 }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
