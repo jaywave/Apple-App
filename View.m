@@ -31,6 +31,7 @@
 {
     [super viewDidLoad];
     NSLog(@" Here i'm Adding some message");
+    NSLog(@" This text is added form different account");
 	// Do any additional setup after loading the view.
 }
 
