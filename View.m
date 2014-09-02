@@ -16,6 +16,7 @@
 -(void)But:(id)sender
 {
     Hello.text=[NSString stringWithFormat:@"HELLO Edited"];
+   
 }
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -30,6 +31,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSLog(@"Fork Check");
 	// Do any additional setup after loading the view.
 }
 
